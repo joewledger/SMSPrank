@@ -32,7 +32,6 @@ else:
 	else: 
 		print("Only Windows, Mac, and Linux are supported")
 
-
 messageNum = 0
 messages = []
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
